@@ -1,0 +1,101 @@
+CustomerID,Name,Age,Gender,AccountType,OpenDate,City
+CUST1000,Ashley Brown,40,M,Savings,2024-12-16,North Kaitlynborough
+CUST1001,Michele Campbell,54,M,Savings,2020-07-17,Shawside
+CUST1002,Nicholas Davis,58,M,Current,2022-08-31,Donnaton
+CUST1003,Janet Jones,38,F,Current,2022-02-17,West Seth
+CUST1004,Angela Russell,59,M,Current,2021-11-29,Kaylashire
+CUST1005,Cody Ponce,24,M,Savings,2023-12-13,Turnerstad
+CUST1006,Tracy Schultz,41,M,Savings,2023-07-18,Langview
+CUST1007,Connor Mendoza,55,F,Savings,2025-03-11,Stewartport
+CUST1008,Allen Brown,19,M,Current,2022-03-21,Hillburgh
+CUST1009,Michelle Adkins,26,F,Current,2024-08-03,Catherineberg
+CUST1010,Carmen Thomas,19,M,Savings,2024-07-02,Port Amandaton
+CUST1011,Daniel Martin,19,M,Current,2022-10-14,South Cynthia
+CUST1012,Tiffany Gray,24,F,Savings,2022-02-03,Lake Briana
+CUST1013,Adam Rodriguez,19,F,Savings,2023-06-25,Suzanneside
+CUST1014,Jacob Hughes,60,M,Current,2024-02-06,Smithville
+CUST1015,Lori Perez,23,F,Current,2023-05-15,North Lauramouth
+CUST1016,Lauren Johnson DDS,47,M,Current,2024-10-26,South Brandonchester
+CUST1017,Dorothy Henderson,42,F,Savings,2024-07-03,Morrisonville
+CUST1018,Peter Walker,43,M,Savings,2025-05-14,West Angelview
+CUST1019,Mary Holden,29,M,Savings,2024-04-15,Riosland
+CUST1020,Sean Bruce,49,M,Current,2023-04-07,South Stephen
+CUST1021,Anita Perry,32,F,Current,2020-10-17,South Katelynport
+CUST1022,Timothy Sullivan,56,F,Savings,2021-11-04,Brownfort
+CUST1023,Dr. Melanie Wright,53,F,Savings,2023-11-10,Joelhaven
+CUST1024,Carla Russo,20,M,Current,2021-09-19,East Kyle
+CUST1025,Bill Shelton,49,M,Savings,2023-12-25,East Patriciabury
+CUST1026,Jeffery Nunez,25,M,Current,2024-08-25,North Kathleentown
+CUST1027,Kathleen Adams,32,F,Current,2023-10-12,Michaelbury
+CUST1028,Jennifer Marshall,53,F,Savings,2022-09-17,Matthewland
+CUST1029,Samantha Lawrence,34,F,Current,2022-03-30,South Joel
+CUST1030,Jessica Thompson,24,M,Current,2022-01-17,Caldwellfort
+CUST1031,John Chambers,41,M,Current,2023-01-08,North Laura
+CUST1032,Melissa Mann MD,64,F,Savings,2022-09-03,New Theodorefort
+CUST1033,Michael Francis,44,F,Current,2024-12-14,Mackside
+CUST1034,Jose Mccarthy,38,M,Savings,2021-09-09,Smithtown
+CUST1035,Christopher Patton,57,F,Current,2022-05-08,Madisonborough
+CUST1036,Julie Miller,18,M,Current,2024-05-15,Huertabury
+CUST1037,Danielle Gomez,22,F,Savings,2023-10-26,Lake Donald
+CUST1038,Michael Nguyen,40,F,Savings,2025-07-01,West Vickieton
+CUST1039,Kyle Robbins,20,M,Savings,2023-02-25,Vanessafurt
+CUST1040,Cynthia Fox,22,F,Current,2021-10-18,Mcclurechester
+CUST1041,Jose Anderson,47,M,Savings,2024-11-11,Lake Annahaven
+CUST1042,Zachary Casey,43,F,Current,2021-07-31,Walkerborough
+CUST1043,Mario Silva,30,F,Savings,2024-05-12,Tranberg
+CUST1044,Erin Nguyen,57,M,Savings,2021-12-01,East Jenniferview
+CUST1045,Audrey Hunter,28,F,Current,2021-10-25,Mallorytown
+CUST1046,Andrew Allen,19,M,Savings,2020-11-17,Pamelashire
+CUST1047,Garrett Stevens,26,F,Current,2023-04-22,New Timothyland
+CUST1048,Jared Schmitt,54,M,Savings,2023-06-13,Robertville
+CUST1049,Jasmine Parker,43,M,Savings,2023-06-23,New Ericside
+CUST1050,Michael Wade,39,F,Current,2020-11-26,Terrishire
+CUST1051,Kerri Tanner,57,M,Current,2023-01-30,Glennfort
+CUST1052,Stephen Thomas,62,M,Current,2024-07-07,South Jodiville
+CUST1053,Lindsay Jackson,45,F,Current,2023-01-12,Lake Jennifer
+CUST1054,Brian English,35,M,Savings,2025-02-22,Hahnside
+CUST1055,Robert Barry,59,F,Savings,2025-01-24,Morenochester
+CUST1056,Alex Parker,52,M,Current,2022-03-27,South Sara
+CUST1057,Tracy Morales,59,M,Current,2020-07-16,Thomasbury
+CUST1058,Suzanne Perez,31,F,Savings,2024-12-01,Danielburgh
+CUST1059,Sheryl Sanders,52,M,Savings,2025-06-05,New Cynthia
+CUST1060,John Wilson,25,M,Savings,2023-12-22,Dannytown
+CUST1061,William White,36,F,Savings,2024-10-11,Brianstad
+CUST1062,Sydney Burns,55,F,Savings,2021-05-20,Port Johnmouth
+CUST1063,Jamie Reynolds,23,M,Current,2024-04-29,East Aaron
+CUST1064,Keith Romero,42,M,Savings,2021-01-21,New Marcus
+CUST1065,Walter Mcdowell,20,M,Current,2023-06-11,Chelseyfurt
+CUST1066,Christopher Mora,61,F,Savings,2024-06-12,Port Courtney
+CUST1067,Jonathan Skinner Jr.,61,M,Savings,2023-06-01,Port Robert
+CUST1068,Nicole Flores,20,F,Savings,2020-08-02,Kennedyberg
+CUST1069,Eddie Medina,23,F,Savings,2025-03-03,Kristinbury
+CUST1070,Alison Coleman,22,M,Savings,2020-07-24,Trevorhaven
+CUST1071,Michael Martinez,43,M,Current,2022-12-18,New Edward
+CUST1072,Jason Blake,39,M,Savings,2024-02-20,Lake Sandyshire
+CUST1073,Mark Mendoza,34,F,Current,2020-12-24,Nancyside
+CUST1074,Carlos Roberts MD,36,M,Current,2024-07-21,Sanchezside
+CUST1075,Valerie Tucker,29,F,Savings,2022-03-17,West Ashleyview
+CUST1076,Rachel Rodriguez,20,F,Current,2022-10-10,North Leslietown
+CUST1077,Christopher Carroll,60,M,Current,2024-10-07,Lewisview
+CUST1078,Joanne Mullen,56,M,Current,2023-01-30,Mendozaville
+CUST1079,Bridget Bates,56,M,Current,2022-05-08,South Jameschester
+CUST1080,Anita Cox,42,F,Savings,2020-10-27,Port Steven
+CUST1081,Michelle Hunt,36,F,Savings,2023-11-06,Allenbury
+CUST1082,Richard Perry,39,F,Current,2022-07-03,East Conniemouth
+CUST1083,Darrell Gardner,43,M,Savings,2022-12-19,Amandamouth
+CUST1084,Lydia Fisher,47,M,Current,2025-04-08,East William
+CUST1085,Jeanette Thompson,36,F,Current,2022-04-25,West Ericport
+CUST1086,Zachary Blake,45,F,Current,2023-12-13,West Vincentbury
+CUST1087,David Johns,60,F,Current,2021-12-03,Dawnside
+CUST1088,Dawn Davis,60,M,Savings,2023-06-09,Jasonfort
+CUST1089,Tanya Miller,28,F,Current,2021-02-19,New Nancy
+CUST1090,Mrs. Tiffany Day,49,F,Current,2021-12-18,Parkershire
+CUST1091,James Evans,43,F,Savings,2021-05-12,Jasonville
+CUST1092,Melissa Daniels,60,F,Current,2024-04-26,Vickimouth
+CUST1093,Jennifer Wu,53,M,Current,2020-10-02,Williamsville
+CUST1094,Spencer Fowler,59,F,Savings,2021-01-06,West Denisebury
+CUST1095,Lauren Gamble,46,M,Current,2023-01-13,Walkerfurt
+CUST1096,Brittany Allen,19,F,Savings,2021-10-06,West Timothy
+CUST1097,Gregory Johnson,32,M,Savings,2024-09-24,South Michael
+CUST1098,Albert Johnson,46,F,Savings,2023-02-14,Robertside
+CUST1099,Bradley Robinson,24,F,Current,2023-06-26,South Beverlyshire
